@@ -1,4 +1,9 @@
-username.github.io
+muniza.ga
 ==================
 
-Github page for Ignacio Munizaga
+Hi, I'm Ignacio Munizaga, this is my page.
+
+Cheers!
+
+http://munizaga.ga
+
