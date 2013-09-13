@@ -5,5 +5,5 @@ Hi, I'm Ignacio Munizaga, this is my page.
 
 Cheers!
 
-http://munizaga.ga
+http://muniza.ga
 
